@@ -1,0 +1,9 @@
+{
+    "name": "NoTutorial",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/TRPG0/UK-NoTutorial",
+    "description": "No more tutorials when starting new saves.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
